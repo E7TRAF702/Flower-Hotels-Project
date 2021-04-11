@@ -12,10 +12,11 @@
 - 404 Page - 404.html
 
 
-# Langauge
+# Language
 - HTML 
 - CSS 
 - Some of JS
+- All Language in file of HTML
 
 
-#### Thank You for Watching & And your suggestions are important to improve the codes
+### Thank You for Watching & And your suggestions are important to improve the codes
