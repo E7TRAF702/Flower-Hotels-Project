@@ -1,5 +1,5 @@
 # Flower-Hotels-Project
-Website of 6 Page for My Project
+-- Website of 6 Page for My Project in Course: Web Development --
 
 
 # Project file
