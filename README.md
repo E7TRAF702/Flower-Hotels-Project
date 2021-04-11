@@ -7,7 +7,7 @@
 - Home - index.html
 - About Us - About-us.html
 - FAQ - FAQp.html
-- Privacy Policy - SOON
+- Privacy Policy - priv1.html
 - BOOK NOW - Booknow.html
 - 404 Page - 404.html
 
