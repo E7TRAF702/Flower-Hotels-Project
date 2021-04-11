@@ -1,4 +1,4 @@
-# Flower-Hotels-Project
+# Flower Hotels Project
 ### Website of 6 Page for My Project in Course: Web Development :-
 
 #### For Visit the project: https://e7traf702.github.io/Flower-Hotels-Project/
