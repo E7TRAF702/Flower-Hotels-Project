@@ -1,4 +1,10 @@
-# Flower Hotels Project
+# Whats News?
+- change css style and add it in the file linked with.
+
+
+
+
+## Flower Hotels Project
 ### Website of 6 Page for My Project in Course: Web Development :-
 
 #### For Visit the project: https://e7traf702.github.io/Flower-Hotels-Project/
